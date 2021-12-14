@@ -1,0 +1,3 @@
+Project E tasked us with making our OS capable of multiprocessing. This included making use of a scheduler adn timer interrupts to allow the OS to choose what program was running at what time.
+
+Worked with Brendan and Marven over discord; we collaborated by talking about how to implement the things Dr. Black showed us in class and I wrote most of the code with some bug hunting help from the others.
